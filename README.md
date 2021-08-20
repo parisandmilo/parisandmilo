@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Diana!✨
 
-![Diana's 2021 Github stats](https://github-readme-stats.vercel.app/api?username=parisandmilo&count_private=true&show_icons=true&theme=radical&hide_title=true)
+![Diana's 2021 Github stats](https://github-readme-stats.vercel.app/api?username=parisandmilo&count_private=true&show_icons=true&theme=radical&hide_title=true&hide_border=true)
 
 <!--
 **parisandmilo/parisandmilo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
