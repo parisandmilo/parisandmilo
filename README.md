@@ -1,5 +1,9 @@
 ### Hi there 👋 I'm Diana!✨
 
+I'm CTO & co-founder @suverahealth 😄
+
+🔭 I’m currently working on building the future of healthcare at [Suvera](https://www.suvera.co.uk/), centralising humanity in healthcare and supercharging the operations of our global healthcare force 👩‍⚕️👨‍⚕️🏥
+
 ![Diana's 2021 Github stats](https://github-readme-stats.vercel.app/api?username=parisandmilo&count_private=true&show_icons=true&theme=radical&hide_title=true&hide_border=true)
 
 <!--
